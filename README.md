@@ -574,7 +574,7 @@ Every contribution — no matter how small — goes directly into keeping the pl
 
 <br/>
 
-**[🌐 Launch GitExplorer](https://akarshxo.org)** · **[📱 Download APK](#-android-apk)** · **[⭐ Star this repo](https://github.com/akarshxs/gitexplor)**
+**[🌐 Launch GitExplorer](https://akarshxo.org)** · **[📱 Download APK](https://github.com/akarshxs/GitExplor/releases/download/v1.0/GitExplorer.apk)** · **[⭐ Star this repo](https://github.com/akarshxs/gitexplor)**
 
 <br/>
 
