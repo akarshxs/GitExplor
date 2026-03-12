@@ -1,0 +1,50 @@
+GitExplorer Proprietary License (GPLX-1.0)
+
+Copyright (c) 2026 Akarsh Tripathi
+
+All rights reserved.
+
+1. Overview
+GitExplorer is proprietary software. The GitExplorer web platform and official
+Android APK are provided to users free of charge for personal and educational
+use. The source code of GitExplorer is private and is not publicly distributed.
+
+2. Grant of Use
+Permission is granted to access and use the GitExplorer platform and its
+official distributed applications (including the Android APK) without charge,
+subject to the terms of this license.
+
+3. Restrictions
+The following actions are strictly prohibited without explicit written
+permission from the author:
+
+• Accessing or attempting to obtain the private source code
+• Copying, modifying, or creating derivative works from the software
+• Reverse engineering, decompiling, or disassembling the software
+• Redistributing modified versions of the application
+• Hosting unofficial versions of the GitExplorer service
+• Selling or commercially redistributing the software
+
+4. Distribution
+Only the official distribution channels provided by the author may distribute
+GitExplorer applications or updates.
+
+5. Intellectual Property
+All intellectual property rights related to GitExplorer, including but not
+limited to software, design, branding, and architecture, remain the exclusive
+property of the author.
+
+6. No Warranty
+GitExplorer is provided "as is", without warranty of any kind, express or
+implied. The author shall not be liable for any damages or losses resulting
+from the use of this software.
+
+7. Termination
+Any violation of this license will automatically terminate the user's
+permission to use the software.
+
+8. Contact
+For permissions, licensing inquiries, or collaboration:
+
+Author: Akarsh Tripathi
+Project: GitExplorer
