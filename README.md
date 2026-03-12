@@ -18,7 +18,7 @@ Discover, filter, star, fork, and track repositories across 84 curated technolog
 
 <br/>
 
-**[🌐 Launch Web App](https://akarshxo.org)** · **[📱 Download APK](#-android-apk)** · **[🐛 Report Issue](https://github.com/akarshxs/gitexplorer/issues)** · **[💡 Request Feature](https://github.com/akarshxs/gitexplorer/issues)**
+**[🌐 Launch Web App](https://akarshxo.org)** · **[📱 Download APK](https://github.com/akarshxs/GitExplor/releases/download/v1.0/GitExplorer.apk)** · **[🐛 Report Issue](https://github.com/akarshxs/gitexplor/issues)** · **[💡 Request Feature](https://github.com/akarshxs/gitexplor/issues)**
 
 <br/>
 
