@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/akarshxs/gitexplorer/main/public/icon.png" width="120" alt="GitExplorer" />
+<img src="https://raw.githubusercontent.com/akarshxs/gitexplorer/main/public/icon.jpeg" width="120" alt="GitExplorer" />
 
 <h1>GitExplorer</h1>
 
