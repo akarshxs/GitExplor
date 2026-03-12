@@ -144,7 +144,7 @@ Whether you're a developer exploring the latest AI tools, a security researcher 
 
 | Web — Stream View | Web — Repository Card | Android App |
 |:---:|:---:|:---:|
-| ![Stream View](https://raw.githubusercontent.com/akarshxs/GitExplor/main/webview.png) | ![Repo Card](https://raw.githubusercontent.com/akarshxs/GitExplor/main/card.png) | ![Android](https://raw.githubusercontent.com/akarshxs/GitExplor/main/app.png) |
+| ![Stream View](https://raw.githubusercontent.com/akarshxs/GitExplor/main/webview.png) | ![Repo Card](https://raw.githubusercontent.com/akarshxs/GitExplor/main/card.png) | ![Android](https://raw.githubusercontent.com/akarshxs/GitExplor/main/app.jpeg) |
 
 > 📌 *Replace placeholder images above with actual screenshots of your app*
 
