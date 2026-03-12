@@ -402,7 +402,7 @@ GitExplorer was designed with security at its core:
 </tr>
 </table>
 
-> Have a feature idea? [Open an issue](https://github.com/akarshxs/gitexplorer/issues) — roadmap priorities are influenced by community feedback.
+> Have a feature idea? [Open an issue](https://github.com/akarshxs/gitexplor/issues) — roadmap priorities are influenced by community feedback.
 
 ---
 
@@ -416,21 +416,21 @@ GitExplorer is closed source, so **code contributions are not accepted**. Howeve
 
 ### 🐛 Bug Reports
 Found something broken?<br/>
-[Open a bug report →](https://github.com/akarshxs/gitexplorer/issues/new)
+[Open a bug report →](https://github.com/akarshxs/gitexplor/issues/new)
 
 </td>
 <td width="33%" align="center">
 
 ### 💡 Feature Requests
 Have an idea?<br/>
-[Request a feature →](https://github.com/akarshxs/gitexplorer/issues/new)
+[Request a feature →](https://github.com/akarshxs/gitexplor/issues/new)
 
 </td>
 <td width="33%" align="center">
 
 ### ⭐ Show Support
 Find it useful?<br/>
-[Star this repo →](https://github.com/akarshxs/gitexplorer)
+[Star this repo →](https://github.com/akarshxs/gitexplor)
 
 </td>
 </tr>
@@ -549,7 +549,7 @@ of Akarsh and may not be used without explicit written permission.
 
 | Channel | Purpose | Link |
 |---------|---------|------|
-| 🐛 GitHub Issues | Bug reports, feature requests | [Open Issue](https://github.com/akarshxs/gitexplorer/issues) |
+| 🐛 GitHub Issues | Bug reports, feature requests | [Open Issue](https://github.com/akarshxs/gitexplor/issues) |
 | 📸 Instagram | Updates, previews, announcements | [@akarshxs](https://instagram.com/akarshxs) |
 | 💼 LinkedIn | Professional inquiries | [akarshx](https://linkedin.com/in/akarshx) |
 | 🐙 GitHub | Follow for updates | [@akarshxs](https://github.com/akarshxs) |
